@@ -1,5 +1,8 @@
 _repo: Writing-and-rewriting_75117
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75117-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Carver, George
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '57839'
     url: http://www.gutenberg.org/2009/agents/57839
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75117#Writing-and-rewriting
 gutenberg_issued: '2025-01-15'
 gutenberg_type: Text
 identifiers:
